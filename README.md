@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @eceiremklc
+- 👋 Hi, I’m Ece İrem Kılıç
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning C, C++, C#, HTML, CSS, PHP, JS...
+- 🌱 I’m currently learning C, C++, C#, HTML, CSS, JS...
 - 📫 You can reach me on eceiremklc@gmail.com
 
 <!---
