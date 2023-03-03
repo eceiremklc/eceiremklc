@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ece İrem Kılıç
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning C, C++, C#, HTML, CSS, JS...
+- 🌱 I’m currently learning C, C++, C#, Java, HTML, CSS, JS...
 - 📫 You can reach me on eceiremklc@gmail.com
 
 <!---
