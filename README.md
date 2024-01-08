@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ece İrem Kılıç
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning C, C++, C#, Java, HTML, CSS, JS...
+- 👀 I’m interested in developing mobile applications.
+- 🌱 I’m currently learning Flutter, React Native, Kotlin and JavaScript...
 - 📫 You can reach me on eceiremklc@gmail.com
 
 <!---
