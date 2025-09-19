@@ -34,4 +34,3 @@ My goal is to grow as a developer while building better and faster web applicati
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=eceiremklc&theme=null" alt="GitHub Streak" />
 
-<img src="https://profile-counter.glitch.me/eceiremklc/count.svg?" alt="visitors count" />
